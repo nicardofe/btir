@@ -11,5 +11,5 @@ date2 = datetime.strptime(date2_str, '%Y-%m-%d')
 # Calculate the difference between the dates
 date_difference = date2 - date1
 
-# Print the difference in days
+# Print the difference in days1
 print("The difference between the two dates is:", date_difference.days, "days")
