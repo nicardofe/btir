@@ -1,6 +1,6 @@
 from datetime import datetime
 
-# Input from userr1
+# Input from userr
 date1_str = input("Enter the first date (YYYY-MM-DD): ")
 date2_str = input("Enter the second date (YYYY-MM-DD): ")
 
