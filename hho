@@ -8,7 +8,7 @@ date2_str = input("Enter the second date (YYYY-MM-DD): ")
 date1 = datetime.strptime(date1_str, '%Y-%m-%d')
 date2 = datetime.strptime(date2_str, '%Y-%m-%d')
 
-# Calculate the difference between the dates
+# Calculate the difference between the dates1
 date_difference = date2 - date1
 
 # Print the difference in days1
