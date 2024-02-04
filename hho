@@ -1,4 +1,4 @@
-from datetime import dateti
+from datetime import dateti1
 
 # Input from userr112
 date1_str = input("Enter the first date (YYYY-MM-DD): ")
